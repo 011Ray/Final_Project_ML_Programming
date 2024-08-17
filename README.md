@@ -90,7 +90,7 @@ plot_results(cnn_results, rnn_results)
 ### CNN + EDA Performance:
 
 - The CNN model demonstrated very high accuracy across all fractions of the dataset:
-  - ****Accuracy with 10% of the dataset**:** Nearly 100%.
+  - **Accuracy with 10% of the dataset**: Nearly 100%.
   - **Accuracy with 20-100% of the dataset:** Remains around 100%, with a slight decrease at the 100% mark.
 
 ### RNN + EDA Performance:
